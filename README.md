@@ -1,11 +1,12 @@
 # Realtime-Violence-Recogniton-from-Videos
 This is a computer vision project to recognise violence in real-time from videos.
 # Approaches:
-1) Using ConvLSTM <br>
-2) Using CNN + LSTM <br>
-3) Using MobileNetV2 <br>
-4) Using MobileNetV2 Bi-LSTM <br>
+1) Using ConvLSTM (Video) - Accuracy: 78% <br>
+2) Using CNN + LSTM (Frames) - Accuracy: 100% <br>
+3) Using MobileNetV2 (Frames) - Accuracy: 88% <br>
+4) Using MobileNetV2 Bi-LSTM (Video) - Accuracy: 88% <br>
 5) Using 3D CNN <br>
+6) Using LRCN Approach <br>
 ## Frameworks and Libraries:
 * Tensorflow
 * Keras
