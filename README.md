@@ -5,8 +5,7 @@ This is a computer vision project to recognise violence in real-time from videos
 2) Using CNN + LSTM <br>
 3) Using MobileNetV2 <br>
 4) Using MobileNetV2 Bi-LSTM <br>
-5) Using SeparableConv2D <br>
-6) Using 3D CNN <br>
+5) Using 3D CNN <br>
 ## Frameworks and Libraries:
 * Tensorflow
 * Keras
